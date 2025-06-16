@@ -1,0 +1,25 @@
+Usando o Firebase(da google) - aprender a mexer
+
+
+
+- Logar no Firebase com a conta google
+- Criar projeto
+- meu-primeiro-firebase(nome do meu projeto criado)
+- Aceitar os termos do firebase e clicar em continuar
+- Aceitar a assistência de IA
+- Desmarcar o google analytics e criar projeto
+- Painel de controle com várias funções
+- Firestore Database, functions, hosting são os mais impostantes para nós
+- clica na opção de web e digita meu-primeiro-firebase(isso registra)
+- a tela que aparece embaixo mostra informações de configuração importantes(dados sensiveis)
+- Dentro do projeto no cmd(expo que foi criado na aula_04), reseta ele(npm run reset-project) e instala o firebase(npm install firebase)
+
+*Ele está alocando um espaço no servidor deles ao criar o projeto*
+
+Aula passada: 
+
+O Expo é uma plataforma de desenvolvimento para criar aplicativos nativos para Android, iOS e web com JavaScript e React Native. Ele simplifica a configuração inicial e oferece APIs prontas para uso, acelerando bastante o desenvolvimento. 
+
+*site para aprender react e react native para mobil:* https://docs.expo.dev/tutorial/create-your-first-app/
+
+
